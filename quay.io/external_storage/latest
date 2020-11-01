@@ -1,1 +1,2 @@
-quay.io/external_storage/nfs-client-provisioner:latest
+FROM  quay.io/external_storage/nfs-client-provisioner:latest
+MAINTAINER 2472843746@qq.com
