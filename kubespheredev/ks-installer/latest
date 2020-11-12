@@ -1,1 +1,4 @@
 From kubespheredev/ks-installer:latest
+
+
+docker tag registry.cn-hangzhou.aliyuncs.com/kang_uat/k8s_1:kubespheredev_ks-installer_latest  kubespheredev/ks-installer:latest
